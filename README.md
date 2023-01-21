@@ -22,9 +22,9 @@ be able to showcase what I have learn in Front-End Development Course for this p
 
 ![Hero](./public/img/ss/hero.png)
 ![About](./public/img/ss/about.png)
-![Project](./public/img/ss/project.png)
+![Project](./public/img/ss/projects.png)
 ![Resume](./public/img/ss/resume.png)
-![Contact](./public/img/ss/contact.png)
+![Contact](./public/img/ss/contacts.png)
 
 ### Links
 
