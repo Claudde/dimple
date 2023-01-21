@@ -42,6 +42,7 @@ be able to showcase what I have learn in Front-End Development Course for this p
 - [React](https://reactjs.org/) - JS library
 - Framer Motion - for animation
 - Font Awesome - Icons
+- GitHub Pages - Deployment
 
 ### Continued development
 
