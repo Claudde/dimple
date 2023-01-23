@@ -9,7 +9,7 @@ class Hero extends Component{
                 <h1>Dimpl<span>e</span></h1>
                 
                 <div className="img-container">
-                    <img src=".\img\Hero_pic_2.png" alt="picture"/>
+                    <img src=".\img\Hero_pic_2_optimized.png" />
                 </div>
             </section>
         );
